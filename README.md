@@ -35,3 +35,6 @@ ps aux | grep "client"
 
 sudo kill -9 <Client_PID>
 ```
+
+## Credits
+Project developed by Mateus Rico, Wagner Martins, João and Galasso
